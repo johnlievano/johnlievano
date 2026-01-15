@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi 👋, I'm John Esteban Liévano</h1>
-  <h3>Junior Web Developer | Full-Stack Enthusiast</h3>
+  <h3>Junior Web Developer</h3>
 
   <p>
-    I specialize in building high-value websites, using modern open-source technologies to deliver scalable, efficient, and business-oriented solutions.<br>
-    One of my long-term goals is to train and establish myself as a professional game developer.
+    Junior web developer in technological training. Experienced in creating scalable web applications using <strong>TypeScript</strong>, <strong>JavaScript</strong>, and <strong>React</strong>.<br>
+    Specialized in modern frontend development with <strong>Next.js</strong> and backend integrations with <strong>Node.js</strong>, prioritizing clean code and performance.
   </p>
 
   <a href="https://portfolio-john-amber.vercel.app/" target="_blank">
@@ -14,22 +14,22 @@
 
 <br>
 
-- 🚀 **Fundador de Áurea Web**: Desarrollo soluciones profesionales para pequeñas y medianas empresas, incluyendo Landing Pages, E-commerce, Catálogos de Productos y Blogs Corporativos.
+- 🚀 **Founder of Áurea Web**: Leading development projects for small and medium-sized businesses, creating scalable web solutions and corporate platforms.
 
-- 💼 **Junior Web Developer**: I build professional solutions for web applications, focusing on clean code and user experience.
+- 💼 **Junior Web Developer**: Developing web applications with **TypeScript** and **React**, implementing modern architectures and optimizing performance.
 
-- 🛠 **Web Stack**: I currently build robust web applications using **Next.js**, **React.js** (Frontend) and **Python/Node.js** (Backend).
+- 🛠 **Web Stack**: I build robust applications using **Next.js**, **React**, **TypeScript**, **Node.js**, and **SQL**.
 
-- 🎮 **Passion Project**: I am actively pursuing my dream of game development, exploring game logic and design.
+- 🎓 **Education**: Technology in Informatics at Corporación Universitaria Minuto de Dios (5th Semester).
 
-- 📫 **Contact me**: [Tu Correo Aquí]
+- 📫 **Contact me**: johnestebanlievanomendez@gmail.com
 
 <hr>
 
 <div align="center">
   <h3>Connect with me:</h3>
   
-  <a href="https://wa.me/573000000000" target="_blank">
+  <a href="https://wa.me/573044702082?text=Hola%20John%20Esteban,%20vi%20tu%20portafolio%20y%20me%20gustar%C3%ADa%20trabajar%20contigo." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="mailto:tucorreo@gmail.com">
+  <a href="mailto:johnestebanlievanomendez@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
@@ -46,7 +46,8 @@
   <h3>Languages and Tools:</h3>
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>

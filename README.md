@@ -22,8 +22,6 @@
 
 - 🎓 **Education**: Technology in Informatics at Corporación Universitaria Minuto de Dios (5th Semester).
 
-- 📫 **Contact me**: johnestebanlievanomendez@gmail.com
-
 <hr>
 
 <div align="center">
@@ -44,27 +42,12 @@
   <br><br>
 
   <h3>Languages and Tools:</h3>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </a>
-  
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
+
+  [![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+  [![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+  [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Node.js](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+  [![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
 </div>

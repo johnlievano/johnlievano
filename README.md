@@ -8,7 +8,7 @@
   </p>
 
   <a href="https://portfolio-john-amber.vercel.app/" target="_blank">
-    <img src="./assets/img/bannerjohn.jpg" alt="Banner Profile" width="100%">
+    <img src="./assets/img/Banner_perfil.jpg" alt="Banner Profile" width="100%">
   </a>
 </div>
 

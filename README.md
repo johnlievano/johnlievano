@@ -8,7 +8,7 @@
   </p>
 
   <a href="https://portfolio-john-amber.vercel.app/" target="_blank">
-    <img src="./assets/img/Banner_perfil.png" alt="Banner Profile" width="100%">
+    <img src="./assets/img/Banner_perfil.jpg" alt="Banner Profile" width="100%">
   </a>
 </div>
 
@@ -28,9 +28,15 @@
 
 <div align="center">
   <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  
+  <a href="https://wa.me/573000000000" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/johnlievano/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
   <a href="mailto:tucorreo@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>

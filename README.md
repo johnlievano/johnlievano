@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm John Esteban Liévano
 
-### Junior Full Stack Developer
-
 <a href="https://portfolio-john-amber.vercel.app/" target="_blank">
   <img src="./assets/img/Banner_perfil.jpg" alt="Banner Profile" width="100%">
 </a>
@@ -15,7 +13,7 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573044702082)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-john-amber.vercel.app/)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2AA8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+%2B+Node.js;Construyendo+soluciones+web+escalables;Siempre+aprendiendo%2C+siempre+creando" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2AA8FF&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+código;Next.js+%2B+TypeScript+%2B+Node.js;Arquitectura+y+rendimiento+web;Siempre+aprendiendo%2C+siempre+creando" alt="Typing SVG" />
 
 </div>
 
@@ -26,8 +24,8 @@
 ### 🚀 Sobre mí
 
 - 💼 Liderando proyectos de desarrollo web para pequeñas y medianas empresas, desde landing pages hasta plataformas corporativas.
-- 💻 Desarrollador Full Stack Junior, enfocado en **rendimiento y escalabilidad**.
-- 🎓 Tecnología en Informática — Corporación Universitaria Minuto de Dios (5to semestre).
+- 💻 Más de 1 año de experiencia creando soluciones con un fuerte enfoque en **rendimiento y escalabilidad**.
+- 🎓 Tecnología en Informática — Corporación Universitaria Minuto de Dios (6to semestre).
 - 🌱 Aprendiendo continuamente sobre arquitectura moderna y buenas prácticas de código.
 - 📫 Contáctame: johnlievanom@gmail.com
 

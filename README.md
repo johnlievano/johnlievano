@@ -1,53 +1,77 @@
 <div align="center">
-  <h1>Hi 👋, I'm John Esteban Liévano</h1>
-  <h3>Junior Full Stack Developer</h3>
 
-  <p>
-    Junior Full Stack Developer in technological training. Experienced in creating scalable web applications using <strong>TypeScript</strong>, <strong>JavaScript</strong>, and <strong>React</strong>.<br>
-    Specialized in modern frontend development with <strong>Next.js</strong> and backend integrations with <strong>Node.js</strong>, prioritizing clean code and performance.
-  </p>
+# Hi 👋, I'm John Esteban Liévano
 
-  <a href="https://portfolio-john-amber.vercel.app/" target="_blank">
-    <img src="./assets/img/Banner_perfil.jpg" alt="Banner Profile" width="100%">
-  </a>
+### Junior Full Stack Developer | Founder @ Áurea Web
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnlievanom@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-esteban-li%C3%A9vano-m%C3%A9ndez-b99532288)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573044702082)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-john-amber.vercel.app/)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AA8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%2B+TypeScript+%2B+Node.js;Founder+de+%C3%81urea+Web;Siempre+construyendo+algo+nuevo" alt="Typing SVG" />
+
 </div>
 
-<br>
+---
 
-- 🚀 **Founder of Áurea Web**: Leading development projects for small and medium-sized businesses, creating scalable web solutions and corporate platforms.
+### 🚀 Sobre mí
 
-- 💼 **Junior Full Stack Developer**: Developing web applications with **TypeScript** and **React**, implementing modern architectures and optimizing performance.
+- 🔭 Actualmente construyendo **Áurea Web**, liderando proyectos de desarrollo para pequeñas y medianas empresas.
+- 💻 Desarrollador Full Stack Junior, enfocado en **rendimiento y escalabilidad**.
+- 🎓 Tecnología en Informática — Corporación Universitaria Minuto de Dios (5to semestre).
+- 🌱 Aprendiendo continuamente sobre arquitectura moderna y buenas prácticas de código.
+- 📫 Contáctame: johnlievanom@gmail.com
 
-- 🛠 **Web Stack**: I build robust applications using **Next.js**, **React**, **TypeScript**, **Node.js**, and **SQL**.
+---
 
-- 🎓 **Education**: Technology in Informatics at Corporación Universitaria Minuto de Dios (5th Semester).
-
-<hr>
+### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <h3>Connect with me:</h3>
-  
-  <a href="https://wa.me/573044702082?text=Hola%20John%20Esteban,%20vi%20tu%20portafolio%20y%20me%20gustar%C3%ADa%20trabajar%20contigo." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/johnlievano/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="mailto:johnestebanlievanomendez@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 
-  <br><br>
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-  <h3>Languages and Tools:</h3>
+</div>
 
-  [![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-  [![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-  [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Node.js](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-  [![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-  [![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+---
+
+### 📌 Proyectos Destacados
+
+| Proyecto | Tecnologías | Descripción |
+|---|---|---|
+| 🛒 [Ecommerce-DC](https://github.com/johnlievano/Ecommerce-DC) | JavaScript | Plantilla de Ecommerce moderna y funcional |
+| 💰 [gastosOK](https://github.com/johnlievano/gastosOK) | Python | Gestor de gastos con lógica en Python |
+| 🌐 [portfolio-john](https://github.com/johnlievano/portfolio-john) | React, TypeScript, Vite, Tailwind | Portafolio profesional con i18n multi-idioma y componentes propios |
+| 🏪 [Template_AureaShop](https://github.com/johnlievano/Template_AureaShop) | Next.js, Tailwind | Plantilla frontend para tienda online |
+
+> 📂 Explora todos mis repositorios, tengo más proyectos en desarrollo activo.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=johnlievano&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlievano&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlievano&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"El código limpio no es una regla, es una forma de respetar a quien lo lea después — incluso si eres tú mismo en seis meses."*
+
+<img src="https://komarev.com/ghpvc/?username=johnlievano&color=blueviolet&style=flat" alt="profile views" />
 
 </div>

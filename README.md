@@ -53,7 +53,7 @@
 
 | Proyecto | Tecnologías | Descripción |
 |---|---|---|
-| 🌐 [**Portafolio Profesional**](https://github.com/johnlievano/portfolio-john) | React, TypeScript, Vite, Tailwind | Portafolio con arquitectura escalable, i18n multi-idioma y componentes UI propios sin plantillas. |
+| 🌐 [**Portafolio Profesional**](https://www.johnlievano.dev/) | React, TypeScript, Vite, Tailwind | Portafolio con arquitectura escalable, i18n multi-idioma y componentes UI propios sin plantillas. |
 | ✈️ [**Aero Airlines**](https://github.com/johnlievano/flight-booking-platform) | Node.js, Express, Prisma, PostgreSQL, React | Sistema de reservas aéreas con selección visual de asientos, estado de vuelos en tiempo real y autenticación JWT. |
 | 🏪 [**Template AureaShop**](https://github.com/johnlievano/Template_AureaShop) | Next.js, Tailwind, Context API | Plantilla base modular para tiendas online, diseñada para escalabilidad y fácil mantenimiento. |
 | 📊 [**Gestión de Proyectos Escolares**](https://github.com/johnlievano/gestion-proyectos-escolares) | HTML, JS, Google Apps Script, Google Sheets | Sistema para la creación, asignación y seguimiento de proyectos, con Sheets como base de datos relacional. |

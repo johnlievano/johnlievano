@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm John Esteban Liévano
 
-<a href="https://portfolio-john-amber.vercel.app/" target="_blank">
+<a href="https://www.johnlievano.dev/" target="_blank">
   <img src="./assets/img/Banner_perfil.jpg" alt="Banner Profile" width="100%">
 </a>
 
@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnlievanom@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-esteban-li%C3%A9vano-m%C3%A9ndez-b99532288)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573044702082)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-john-amber.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.johnlievano.dev/)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2AA8FF&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+código;Next.js+%2B+TypeScript+%2B+Node.js;Arquitectura+y+rendimiento+web;Siempre+aprendiendo%2C+siempre+creando" alt="Typing SVG" />
 
@@ -53,13 +53,14 @@
 
 | Proyecto | Tecnologías | Descripción |
 |---|---|---|
-| 🌐 [**Portafolio Profesional**](https://www.johnlievano.dev/) | React, TypeScript, Vite, Tailwind | Portafolio con arquitectura escalable, i18n multi-idioma y componentes UI propios sin plantillas. |
-| ✈️ [**Aero Airlines**](https://github.com/johnlievano/flight-booking-platform) | Node.js, Express, Prisma, PostgreSQL, React | Sistema de reservas aéreas con selección visual de asientos, estado de vuelos en tiempo real y autenticación JWT. |
-| 🏪 [**Template AureaShop**](https://github.com/johnlievano/Template_AureaShop) | Next.js, Tailwind, Context API | Plantilla base modular para tiendas online, diseñada para escalabilidad y fácil mantenimiento. |
-| 📊 [**Gestión de Proyectos Escolares**](https://github.com/johnlievano/gestion-proyectos-escolares) | HTML, JS, Google Apps Script, Google Sheets | Sistema para la creación, asignación y seguimiento de proyectos, con Sheets como base de datos relacional. |
-| 🐍 [**PyQuest**](https://github.com/johnlievano/PyQuest) | TypeScript, Python | Plataforma web interactiva y gamificada para aprender los fundamentos de Python desde el navegador. |
-| 🏢 [**Plataforma ERP Empresarial**](https://github.com/aureawebinfo/ccb-template.git) | React, TypeScript, Next.js, Tailwind | Solución ERP centralizada para gestión de empresas, usuarios y beneficios: roles, RRHH y panel administrativo. |
-| ☀️ [**Energías Renovables Polo a Tierra**](https://github.com/aureawebinfo/energias-renovables-polo-a-tierra.git) | React, Tailwind, Vite | Landing page corporativa para presentación de servicios y proyectos de paneles solares. |
+| 🌐 [**Portafolio Profesional**](https://www.johnlievano.dev/) | React, TypeScript, Vite, Tailwind | Portafolio profesional multilingüe. |
+| 🛍️ [**The Next Moda**](https://thenextmoda.com/) | E-commerce | Plataforma de comercio electrónico de moda. |
+| 💍 [**VELO**](https://velo-frontend-alpha.vercel.app/) | Plataforma web | Gestión de bodas y eventos. |
+| ☀️ [**Energías Renovables Polo a Tierra**](https://energias-renovables-polo-a-tierra-m.vercel.app/) | React, Tailwind, Vite | Sitio corporativo de energía solar. |
+| 🌐 [**Áurea Web**](https://aurea-web.com/Index) | Desarrollo web | Sitio de servicios digitales y desarrollo web. |
+| 🏢 [**Plataforma ERP Empresarial**](https://proposal-template-one.vercel.app/) | React, TypeScript, Next.js, Tailwind | Plataforma empresarial para gestión de usuarios y beneficios. |
+| 📋 [**Sistema de Seguimiento**](https://prueba-tecnica-lilac.vercel.app/) | Aplicación web | Sistema de seguimiento y gestión. |
+| ✈️ [**Aero Airlines**](https://github.com/johnlievano/flight-booking-platform) | Node.js, Express, Prisma, PostgreSQL, React | Sistema de reservas aéreas con selección de asientos y autenticación JWT. |
 
 > 📂 Explora todos mis repositorios, tengo más proyectos en desarrollo activo.
 

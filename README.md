@@ -24,7 +24,7 @@
 ### 🚀 Sobre mí
 
 - 💼 Liderando proyectos de desarrollo web para pequeñas y medianas empresas, desde landing pages hasta plataformas corporativas.
-- 💻 Más de 1 año de experiencia creando soluciones con un fuerte enfoque en **rendimiento y escalabilidad**.
+- 💻 Más de 2 años de experiencia creando soluciones con un fuerte enfoque en **rendimiento y escalabilidad**.
 - 🎓 Tecnología en Informática — Corporación Universitaria Minuto de Dios (6to semestre).
 - 🌱 Aprendiendo continuamente sobre arquitectura moderna y buenas prácticas de código.
 - 📫 Contáctame: johnlievanom@gmail.com
@@ -44,6 +44,11 @@
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 

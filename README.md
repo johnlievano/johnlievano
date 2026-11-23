@@ -54,12 +54,12 @@
 | Proyecto | Tecnologías | Descripción |
 |---|---|---|
 | 🌐 [**Portafolio Profesional**](https://www.johnlievano.dev/) | React, TypeScript, Vite, Tailwind | Portafolio profesional multilingüe. |
-| 🛍️ [**The Next Moda**](https://thenextmoda.com/) | E-commerce | Plataforma de comercio electrónico de moda. |
-| 💍 [**VELO**](https://velo-frontend-alpha.vercel.app/) | Plataforma web | Gestión de bodas y eventos. |
+| 🛍️ [**The Next Moda**](https://thenextmoda.com/) | TypeScript, Next.js, React, Node.js, NestJS, PostgreSQL, Prisma ORM | Plataforma de comercio electrónico de moda. |
+| 💍 [**VELO**](https://velo-frontend-alpha.vercel.app/) | TypeScript, Next.js, NestJS, PostgreSQL, Prisma ORM, Docker | Gestión de bodas y eventos. |
 | ☀️ [**Energías Renovables Polo a Tierra**](https://energias-renovables-polo-a-tierra-m.vercel.app/) | React, Tailwind, Vite | Sitio corporativo de energía solar. |
-| 🌐 [**Áurea Web**](https://aurea-web.com/Index) | Desarrollo web | Sitio de servicios digitales y desarrollo web. |
+| 🌐 [**Áurea Web**](https://aurea-web.com/Index) | React, TypeScript, Vite | Sitio de servicios digitales y desarrollo web. |
 | 🏢 [**Plataforma ERP Empresarial**](https://proposal-template-one.vercel.app/) | React, TypeScript, Next.js, Tailwind | Plataforma empresarial para gestión de usuarios y beneficios. |
-| 📋 [**Sistema de Seguimiento**](https://prueba-tecnica-lilac.vercel.app/) | Aplicación web | Sistema de seguimiento y gestión. |
+| 📋 [**Sistema de Seguimiento**](https://prueba-tecnica-lilac.vercel.app/) | HTML5, JavaScript, Tailwind CSS, Google Apps Script, Google Sheets | Sistema de seguimiento y gestión. |
 | ✈️ [**Aero Airlines**](https://github.com/johnlievano/flight-booking-platform) | Node.js, Express, Prisma, PostgreSQL, React | Sistema de reservas aéreas con selección de asientos y autenticación JWT. |
 
 > 📂 Explora todos mis repositorios, tengo más proyectos en desarrollo activo.
